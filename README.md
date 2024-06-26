@@ -24,3 +24,6 @@ I don't like PhD theses that are more and more mathematical (they're just trying
 God knows when I'll want to expand it, I'm just presenting an idea for now --- maybe I'll use it for some future project.
 
 天知道我什么时候会想要拓展它，我暂且只是提出了一种思想——或许我未来的某个项目会用到它。
+
+
+Plasma (github.com/duoduo70) 2024/6/26
